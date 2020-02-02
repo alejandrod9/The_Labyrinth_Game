@@ -1,0 +1,5 @@
+TODO: 
+
+bibliothèque
+main game
+rnd exit, starting point... easy
